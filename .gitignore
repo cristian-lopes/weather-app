@@ -40,3 +40,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+/.vs/weather-app/FileContentIndex/ca6773c5-886b-48bf-b56a-5941de487132.vsidx
+/.vs/weather-app/FileContentIndex/e45ddafb-ac81-457c-b863-e7117018514f.vsidx
